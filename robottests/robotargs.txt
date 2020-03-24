@@ -1,0 +1,2 @@
+--pythonpath lib
+--outputdir result
